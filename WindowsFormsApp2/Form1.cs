@@ -19,7 +19,7 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Sveiks";
+            textBox1.Text = "Sveiks Pasaule";
         }
 
         private void button2_Click(object sender, EventArgs e)
